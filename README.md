@@ -1,6 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
 <h1 align="center">Hi 👋, I'm Bingum de Alwis</h1>
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!" alt="gerald525" /></a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bingum-de-alwis&label=Profile%20views&color=0e75b6&style=flat" alt="bingum-de-alwis" /> </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Software+Enginnering+Student..&hearts;++;Full-Stack+Developer,;Cloud+Computing+and+DevOps+Enthusiast,;AI+ML,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
