@@ -16,5 +16,9 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" width="100%"/>
 
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sql,mysql,mongodb,nodejs,nextjs,oracle,c,cs,java,flutter,arduino,aws,azure,chartjs,dotnet,figma,firebase,gcp,git,photoshop,php,postman,unreal)](https://skillicons.dev)
+
+
+
 
 
