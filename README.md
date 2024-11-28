@@ -1,7 +1,7 @@
 <p align="center">
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=800&height=80&lines=Hi!+I+am+Bingum+de+Alwis;Welcome+to+my+GitHub+Profile!;Passionate+Software+Engineering+Student;Full-Stack+Developer+|+Cloud+Enthusiast;DevOps+Learner+|+AI/ML+Explorer;Active+Researcher+|+Curious+Learner;Always+Ready+to+Learn+Something+New!" alt="bingum-profile-animation" /></a>
 </p>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" width="100%"/>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 
@@ -13,7 +13,7 @@
 </p>
 <h3>Tools & Technologies</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mysql,mongodb,nodejs,nextjs,c,cs,java,flutter,arduino,aws,azure,dotnet,figma,firebase,gcp,git,photoshop,php,postman)](https://skillicons.dev)
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" width="100%"/>
 
 
 
